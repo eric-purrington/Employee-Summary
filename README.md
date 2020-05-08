@@ -5,7 +5,7 @@
 A node command line application that prompts the user for information about the manager and any number of team members that the user would like to include. The team members can be a mix of engineers and interns. When the user has finished adding employees, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
 
 ## Input/Output Possible
-![input/output](https://media.giphy.com/media/KyH2BdlGqnF8Ps2Mry/giphy.gif)
+![input/output](https://media.giphy.com/media/KyH2BdlGqnF8Ps2Mry/giphy.gif)                 
 Link to video demonstration: https://eric-purrington.github.io/Employee-Summary/
 
 
