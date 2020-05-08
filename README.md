@@ -19,6 +19,8 @@ Link to video demonstration: https://eric-purrington.github.io/Employee-Summary/
 
 * [Tests](#tests)
 
+* [Technology](#technology)
+
 * [Questions](#questions)
 
 
@@ -43,7 +45,7 @@ To run tests, run the following command:
 npm test
 ```
 
-## Tech from others
+## Technology
 
 Bootstrap - https://getbootstrap.com/                       
 Fontawesome - https://fontawesome.com/                        
