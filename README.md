@@ -6,6 +6,8 @@ A node command line application that prompts the user for information about the 
 
 ## Input/Output Possible
 ![input/output](https://media.giphy.com/media/KyH2BdlGqnF8Ps2Mry/giphy.gif)
+Link to video demonstration: https://eric-purrington.github.io/Employee-Summary/
+
 
 ## Table of Contents 
 
